@@ -8,7 +8,7 @@ from keras.models import load_model
 from flask import Flask, request, render_template
 from werkzeug.utils import secure_filename
 
-/* connecting to the flask app */
+/* connecting to the flask app into tha main website*/
 app = Flask(__name__)
 
 
